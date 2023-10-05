@@ -24,9 +24,11 @@ um botão de finalizar venda.
 - A parte "sair" será para encerrar o login de usuário.
   
 ### Imagem da proposta da tela principal
-![telaweb](https://github.com/adsyuri/sales-management/assets/145518138/099c8e51-e144-494f-b31b-2e14b5b9facf)
+![telaweb](https://github.com/adsyuri/sales-management/assets/145518138/211e4bf9-fd2d-4fae-b790-faf0d803357a)
+
+![tela-web](https://github.com/adsyuri/sales-management/assets/145518138/a4b0bfe8-873a-4e12-a081-e4bc23bc1c10)
 
 
-![tela-web](https://github.com/adsyuri/sales-management/assets/145518138/240688bc-de7b-4f60-b505-40fda5d45312)
+
 
 
